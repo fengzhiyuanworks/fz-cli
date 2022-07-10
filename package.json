@@ -1,0 +1,26 @@
+{
+  "name": "fz-cli",
+  "version": "1.0.0",
+  "description": "front cli tool",
+  "main": "bin/index.js",
+  "bin": {
+    "fz": "bin/index.js",
+    "fz-t": "bin/test.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fengzhiyuanworks/fz-cli.git"
+  },
+  "keywords": [
+    "fengzyworks"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fengzhiyuanworks/fz-cli/issues"
+  },
+  "homepage": "https://github.com/fengzhiyuanworks/fz-cli#readme"
+}
