@@ -1,7 +1,8 @@
 {
-  "name": "fz-cli",
+  "name": "frontz--cli",
   "version": "1.0.0",
   "description": "front cli tool",
+  "private":false,
   "main": "bin/index.js",
   "bin": {
     "fz": "bin/index.js",
